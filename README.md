@@ -1,4 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
+
+
 !Inforamation : 
 Trata-se de um blog com nextJS, com autenticação, login, area adm,
 Projeto para portfolio
