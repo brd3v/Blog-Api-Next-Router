@@ -1,0 +1,36 @@
+.app{
+    height: 100vh;
+display: flex;    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: red;
+}
+
+
+.blog{
+    width: 100%;
+    background-color: green;
+    height: auto;
+    text-align: center;
+    display: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+ul{
+    width: 100%;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: auto;
+}
+
+li{
+ border: 1px solid black;
+ border-radius: 18px;
+ width: 50%;
+ margin: 25px;
+ background-color: blue;
+}

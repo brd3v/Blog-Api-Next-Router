@@ -14,7 +14,7 @@ export default function PostBlog(){
  
 
     return(
-     <div>
+     <div className="blog" >
               <button onClick={getData}>
         carregar
       </button>
