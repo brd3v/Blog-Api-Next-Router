@@ -1,11 +1,19 @@
 .app{
     height: 100vh;
-display: flex;    justify-content: center;
+    justify-content: center;
     align-items: center;
     text-align: center;
     background-color: red;
 }
 
+
+.sistem{
+    
+    
+    height: 100vh;
+    background-color: blue;
+    width: 100%;
+}
 
 .blog{
     width: 100%;
@@ -20,7 +28,6 @@ display: flex;    justify-content: center;
 ul{
     width: 100%;
     background-color: yellow;
-    display: flex;
     align-items: center;
     text-align: center;
     justify-content: center;
